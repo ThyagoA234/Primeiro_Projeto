@@ -11,7 +11,7 @@
         background-image: url("https://st2.depositphotos.com/1106005/10775/i/950/depositphotos_107752980-stock-photo-blue-doggy-tile-pattern-repeat.jpg");
         background-repeat: no-repeat;
         background-position: center;
-        background-size: 210vh 100vh;
+        background-size: 100%;
 
     }
 
@@ -43,15 +43,24 @@
         height: 83vh;
         width: 100%;
         padding-top: 20px;
-        background-color: rgb(189, 216, 10);
-
+        background-image: url("https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/12/azul-claro27.jpg?fit=612%2C408&ssl=1");
+        background-repeat: no-repeat;
+        background-size: 300vh;
+        background-position: center;
+        display: flex;
+        align-items: center;
     }
 
     .referencia {
         height: 83vh;
         width: 100%;
+        text-align: center;
         padding-top: 20px;
-        background-color: rgb(0, 255, 255);
+        background-image:url("https://st2.depositphotos.com/1106005/10775/i/950/depositphotos_107752980-stock-photo-blue-doggy-tile-pattern-repeat.jpg");
+        background-repeat: no-repeat;
+        background-size: 300vh;
+        background-position: center;
+       
 
     }
 
@@ -59,7 +68,11 @@
         height: 83vh;
         width: 100%;
         padding-top: 20px;
-        background-color: rgb(255, 0, 0);
+        background-image: url("https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/12/azul-claro27.jpg?fit=612%2C408&ssl=1");
+        background-repeat: no-repeat;
+        background-size: 300vh;
+        background-position: center;
+        text-align: center;
 
     }
 
@@ -67,6 +80,10 @@
         height: 5vh;
         width: 100%;
         padding-top: 20px;
+        background-image: url("https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/12/azul-claro27.jpg?fit=612%2C408&ssl=1");
+        background-repeat: no-repeat;
+        background-size: 300vh;
+        background-position: center;
     }
 
     .logo {
@@ -108,7 +125,7 @@
     .titulo2 {
         margin-top: 5vh;
         font-size: 10vh;
-        
+
     }
 
     .extrutura1 {
@@ -122,7 +139,7 @@
         display: flex;
         align-items: center;
     }
-    
+
 
     .ex1 {
         height: 18vh;
@@ -165,7 +182,84 @@
     }
 
 
-    .Imagemr{
+    .Imagemr {
         width: 65vh;
         height: 65vh;
+    }
+
+    .paragrafot3 {
+        margin-top: 4vh;
+    }
+
+    .titulo3 {
+        font-size: 8vh;
+    }
+
+    .titulovideo {
+        font-size: 8vh;
+        margin-bottom: 5vh;
+    }
+.tituloreferencia{
+    margin-top: 5vh;
+    font-size: 10vh;
+    margin-bottom: 9vh;
+}
+
+.paragraforeferencia{
+    font-size: 3.6vh;
+    margin-bottom: 9vh;
+}
+
+    .referenciaimg1 {
+        height: 12vh;
+        width: 12vh;
+        border-radius: 90%;
+    }
+
+    .referenciaimg2 {
+        height: 12vh;
+        width: 12vh;
+        border-radius: 90%;
+        margin-left: 4vh;
+    }
+
+    .referenciaimg3 {
+        height: 12vh;
+        width: 12vh;
+        border-radius: 90%;
+        margin-left: 4vh;
+    }
+
+    .referenciaimg4 {
+        height: 12vh;
+        width: 12vh;
+        border-radius: 90%;
+        margin-left: 4vh;
+    }
+    .tituloreferencia2{
+        margin-top: 5vh;
+        font-size :2vh;
+    }
+
+    .paragraforeferencia2{
+        font-size :3vh;
+        margin-bottom: 5vh;
+    }
+
+    .cadastrotitulo{
+        margin-top:8vh;
+        margin-bottom:8vh;
+         font-size: 9vh;
+    }
+
+    .logo2{
+        width: 5vh;
+        height: 5vh;
+    }
+
+    .finallogo{
+        background-image: url("https://www.adotandoumamigo.com.br/images/projeto/logo_big.png");
+        background-repeat: no-repeat;
+        background-size: 2vh;
+        background-position: top left ;
     }
