@@ -268,3 +268,8 @@
 .correcao{
     text-align: left;
 }
+
+p{
+    font-size: 6vh;
+    margin-bottom: 3vh;
+}
