@@ -77,6 +77,7 @@
     }
 
     .final {
+        display: flex;
         height: 5vh;
         width: 100%;
         padding-top: 20px;
@@ -255,11 +256,15 @@
     .logo2{
         width: 5vh;
         height: 5vh;
+        margin-left: 5vh;         
     }
 
-    .finallogo{
-        background-image: url("https://www.adotandoumamigo.com.br/images/projeto/logo_big.png");
-        background-repeat: no-repeat;
-        background-size: 2vh;
-        background-position: top left ;
-    }
+.finalparagrafo{
+    font-size: small;
+    margin-top: 2vh;
+    margin-left: 220vh;
+}
+
+.correcao{
+    text-align: left;
+}
